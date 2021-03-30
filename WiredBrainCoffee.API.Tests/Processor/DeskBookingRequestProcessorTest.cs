@@ -31,7 +31,7 @@
             {
                 FirstName = "Pratik",
                 LastName = "Nandagawali",
-                Email = "pratik.nandagawali@globallogic.com",
+                Email = "pratik.nandagawali@test.com",
                 Date = new DateTime(2021, 03, 28),
             };
 
@@ -71,7 +71,7 @@
             {
                 FirstName = "Pratik",
                 LastName = "Nandagawali",
-                Email = "pratik.nandagawali@globallogic.com",
+                Email = "pratik.nandagawali@test.com",
                 Date = new DateTime(2021, 03, 28),
             };
 
@@ -102,7 +102,7 @@
             {
                 FirstName = "Pratik",
                 LastName = "Nandagawali",
-                Email = "pratik.nandagawali@globallogic.com",
+                Email = "pratik.nandagawali@test.com",
                 Date = new DateTime(2021, 03, 28),
             };
 
@@ -135,7 +135,7 @@
             {
                 FirstName = "Pratik",
                 LastName = "Nandagawali",
-                Email = "pratik.nandagawali@globallogic.com",
+                Email = "pratik.nandagawali@test.com",
                 Date = new DateTime(2021, 03, 28),
             };
 
