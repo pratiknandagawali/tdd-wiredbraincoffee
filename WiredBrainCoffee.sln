@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{51CD14C5-B618-4D25-B8B2-4E33CE144B72}"
+	ProjectSection(SolutionItems) = preProject
+		Requirements.txt = Requirements.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiredBrainCoffee.API.Tests", "WiredBrainCoffee.API.Tests\WiredBrainCoffee.API.Tests.csproj", "{FCE9B681-E8E0-4521-8C41-E0A9711389D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{036722D0-2962-4697-81EC-41882450344C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{CDA7D2AE-D816-4F4B-9B79-FEC266D934F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceWiredBrainCoffee.API", "WiredBrainCoffee.API\WiredBrainCoffee.API.csproj", "{E494A866-2641-46CE-AF3E-CC6EB77FA849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE9B681-E8E0-4521-8C41-E0A9711389D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE9B681-E8E0-4521-8C41-E0A9711389D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE9B681-E8E0-4521-8C41-E0A9711389D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE9B681-E8E0-4521-8C41-E0A9711389D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E494A866-2641-46CE-AF3E-CC6EB77FA849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E494A866-2641-46CE-AF3E-CC6EB77FA849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E494A866-2641-46CE-AF3E-CC6EB77FA849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E494A866-2641-46CE-AF3E-CC6EB77FA849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FCE9B681-E8E0-4521-8C41-E0A9711389D1} = {036722D0-2962-4697-81EC-41882450344C}
+		{E494A866-2641-46CE-AF3E-CC6EB77FA849} = {CDA7D2AE-D816-4F4B-9B79-FEC266D934F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0218075A-0809-4D47-99E4-B158C95B2495}
+	EndGlobalSection
+EndGlobal
