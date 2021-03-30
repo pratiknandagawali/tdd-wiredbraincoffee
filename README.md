@@ -3,10 +3,15 @@
 Wired Brain Coffee is a Coffee Shop Company that runs several coffee shops. In Zurich, they have desks for customers. They want a web application where customers can book the desk for a full day. They ask you to build the business logic and parts of the Web application. Business Requirements are as follows,
 
 On the Web Page, the customer can enter FirstName, LastName, Email, and Date. These same inputs need to be returned to return.
+
 If the Request is Null, the API should throw an Argument Null Exception.
+
 Save a Desk Booking into the Database.
+
 Check If a desk is Available.
+
 Send Success or NoDesk Available.
+
 To accomplish the above business needs we will be using the Test Driven Development approach.
 
 Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases.
