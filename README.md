@@ -6,7 +6,7 @@ Wired Brain Coffee is a Coffee Shop Company that runs several coffee shops. In s
 
 2.If the Request is Null, the API should throw an Argument Null Exception.
 
-3. Save a Desk Booking into the Database.
+3.Save a Desk Booking into the Database.
 
 4.Check If a desk is Available.
 
