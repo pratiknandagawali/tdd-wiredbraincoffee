@@ -1,16 +1,16 @@
 # tdd-wiredbraincoffee
 
-Wired Brain Coffee is a Coffee Shop Company that runs several coffee shops. In Zurich, they have desks for customers. They want a web application where customers can book the desk for a full day. They ask you to build the business logic and parts of the Web application. Business Requirements are as follows,
+Wired Brain Coffee is a Coffee Shop Company that runs several coffee shops. In several countries, they have desks for customers. We will be using the Wired Brain Coffee shop example to demonstrate the Test Driven Development approach. We will take some of the below requirements and start building using the Test Driven Development approach. In combination with the TDD approach, we are going to use SOLID principles to build our application more cleaner, scalable and maintainable. 
 
-On the Web Page, the customer can enter FirstName, LastName, Email, and Date. These same inputs need to be returned to return.
+1.On the Web Page, the customer can enter FirstName, LastName, Email, and Date. These same inputs need to be returned to return.
 
-If the Request is Null, the API should throw an Argument Null Exception.
+2.If the Request is Null, the API should throw an Argument Null Exception.
 
-Save a Desk Booking into the Database.
+3. Save a Desk Booking into the Database.
 
-Check If a desk is Available.
+4.Check If a desk is Available.
 
-Send Success or NoDesk Available.
+5.Send Success or NoDesk Available.
 
 To accomplish the above business needs we will be using the Test Driven Development approach.
 
